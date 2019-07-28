@@ -2,7 +2,7 @@
 # Filename: StereoVisionLibrary.py
 # Function:
 #	1. rectifies the right and left image
-#	2. computes diaprity using SGBM
+#	2. computes disparity using SGBM
 #	3. creates point cloud in ply file
 #	4. computes distance/depth from disparity map
 ##################################################
