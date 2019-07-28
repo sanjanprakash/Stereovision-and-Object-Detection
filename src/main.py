@@ -2,7 +2,7 @@
 # Filename: main.py
 # Function:
 #	1. reads the right and left image (from stereo camera)
-#	2. finds disprity and depth map 
+#	2. finds disparity and depth map 
 #	3. identifies object using grabcut() algorithm 
 #	4. uses disparity to get a better segmentation result
 #	5. displays the original images, disparity map, 
