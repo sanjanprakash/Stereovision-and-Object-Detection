@@ -1,0 +1,1 @@
+Run the code directly keeping the images folder and the code in the same folder. One of the codes uses SIFT and the code has been run using OpenCV 2.4 and Python 2.7. If you are running it on OpenCV 3.0 or above, make sure you have installed OpenCV with the opencv-contrib modules.
